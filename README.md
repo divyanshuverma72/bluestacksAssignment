@@ -9,8 +9,8 @@ To fetch api data for a gaming UI.
 
 ## App screens
 
-![alt text](https://raw.githubusercontent.com/divyanshuverma72/bluestacksAssignment/master/blustack1.jpg?raw=true =250x250)
-![alt text](https://raw.githubusercontent.com/divyanshuverma72/bluestacksAssignment/master/bluestack2.jpg?raw=true)
+<img src="https://raw.githubusercontent.com/divyanshuverma72/bluestacksAssignment/master/blustack1.jpg" width=300 align=left>
+<img src="https://raw.githubusercontent.com/divyanshuverma72/bluestacksAssignment/master/bluestack2.jpg" width=300align=left>
 
 
 
